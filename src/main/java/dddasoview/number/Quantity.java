@@ -8,7 +8,7 @@ public class Quantity {
     }
 
     private Quantity(int value) {
-        if (value < 1) throw new ArithmeticException("`value` should not bellow 1");
+        if (value < 1) throw new ArithmeticException("`value` should not below 1");
         if (value > 99) throw new ArithmeticException("`value` should not above 99");
 
         this.value = value;
