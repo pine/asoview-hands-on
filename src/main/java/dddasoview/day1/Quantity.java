@@ -1,4 +1,4 @@
-package dddasoview.number;
+package dddasoview.day1;
 
 public class Quantity {
     private final int value;

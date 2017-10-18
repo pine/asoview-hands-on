@@ -1,4 +1,4 @@
-package dddasoview.number;
+package dddasoview.day1;
 
 public class Age {
     private int value;
